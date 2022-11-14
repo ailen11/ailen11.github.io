@@ -1,0 +1,13 @@
+ body{
+	background-color:#FCD4FF;
+	color:#17202A;
+}
+a {
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background-color: lightpink;
+	color: black;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	margin-right: 30px;
+}
